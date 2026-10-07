@@ -22,7 +22,7 @@ layers:
   - K
   - L
   - ;
-  - Z
+  - {t: Z, h: LEFT SHIFT}
   - X
   - C
   - V
@@ -34,7 +34,7 @@ layers:
   - ','
   - .
   - /
-  - LEFT SHIFT
+  - Ctl+SPACE
   - LEFT ALT
   - LEFT COMMAND
   - BACKSPACE
