@@ -96,6 +96,11 @@
             <&zip_temp_layer 4 10000>;                            //オートマウスレイヤーの選択
     };
 
+    //MOUSEレイヤー上のマウスボタン(key-position 11,12,13,17,18,19)はドラッグ中にレイヤーを解除しない
+    &zip_temp_layer {
+        excluded-positions = <11 12 13 17 18 19>;
+    };
+
     left_encoder: encoder_left {
         compatible = "alps,ec11";
         a-gpios = <&xiao_d 5 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
