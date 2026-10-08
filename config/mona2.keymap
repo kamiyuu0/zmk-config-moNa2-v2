@@ -28,6 +28,11 @@
             bindings = <&lt 3 ESC>;
             key-positions = <39 38>;
         };
+
+        tab {
+            bindings = <&kp TAB>;
+            key-positions = <11 12>;
+        };
     };
 
     macros {
