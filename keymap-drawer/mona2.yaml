@@ -38,8 +38,8 @@ layers:
   - LEFT ALT
   - LEFT COMMAND
   - LANGUAGE 2
-  - SPACE
-  - {t: '&to_layer_0 LANGUAGE_1', h: '1'}
+  - {t: LANGUAGE 1, h: '4'}
+  - {t: '&to_layer_0 RC(SPACE)', h: '1'}
   - {t: '&to_layer_0 ENTER', h: '2'}
   - BACKSPACE
   - {t: ESCAPE, h: '4'}
@@ -210,11 +210,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   '5':
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
