@@ -327,6 +327,10 @@ path.combo {
 <a href="#x_x">
 <text x="364" y="207" class="combo hold layer-activator">3</text>
 </a></g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
+<text x="112" y="84" class="combo tap">TAB</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 280)" class="layer-1">
@@ -514,6 +518,10 @@ path.combo {
 <a href="#x_x">
 <text x="364" y="207" class="combo hold layer-activator">3</text>
 </a></g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
+<text x="112" y="84" class="combo tap">TAB</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 560)" class="layer-2">
@@ -700,6 +708,10 @@ path.combo {
 <a href="#x_x">
 <text x="364" y="207" class="combo hold layer-activator">3</text>
 </a></g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
+<text x="112" y="84" class="combo tap">TAB</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 840)" class="layer-3">
@@ -892,6 +904,10 @@ path.combo {
 <a href="#x_x">
 <text x="364" y="207" class="combo hold layer-activator">3</text>
 </a></g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
+<text x="112" y="84" class="combo tap">TAB</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1120)" class="layer-4">
@@ -1084,6 +1100,10 @@ path.combo {
 <a href="#x_x">
 <text x="364" y="207" class="combo hold layer-activator">3</text>
 </a></g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
+<text x="112" y="84" class="combo tap">TAB</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1400)" class="layer-5">
@@ -1265,6 +1285,10 @@ path.combo {
 <a href="#x_x">
 <text x="364" y="207" class="combo hold layer-activator">3</text>
 </a></g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
+<text x="112" y="84" class="combo tap">TAB</text>
+</g>
 </g>
 </g>
 </svg>
