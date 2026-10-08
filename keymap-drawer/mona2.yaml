@@ -39,7 +39,7 @@ layers:
   - LEFT COMMAND
   - LANGUAGE 2
   - {t: LANGUAGE 1, h: '4'}
-  - {t: '&to_layer_0 RC(SPACE)', h: '1'}
+  - {t: '&to_layer_0 SPACE', h: '1'}
   - {t: '&to_layer_0 ENTER', h: '2'}
   - BACKSPACE
   - {t: ESCAPE, h: '4'}
