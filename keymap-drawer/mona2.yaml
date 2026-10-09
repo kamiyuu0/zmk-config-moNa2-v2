@@ -27,8 +27,8 @@ layers:
   - C
   - V
   - B
-  - '`'
-  - '-'
+  - '&mkp MB1'
+  - '&mkp MB2'
   - N
   - M
   - ','
@@ -37,46 +37,46 @@ layers:
   - LEFT CONTROL
   - LEFT ALT
   - LEFT COMMAND
+  - LANGUAGE 1
   - LANGUAGE 2
-  - {t: LANGUAGE 1, h: '4'}
   - {t: '&to_layer_0 SPACE', h: '1'}
   - {t: '&to_layer_0 ENTER', h: '2'}
   - BACKSPACE
-  - {t: ESCAPE, h: '4'}
+  - TAB
   '1':
   - '1'
   - '2'
   - '3'
-  - +
-  - '*'
-  - ^
-  - (
-  - )
-  - '@'
-  - Gui+Ctl+Sft+4
   - '4'
   - '5'
   - '6'
-  - '-'
-  - /
-  - _
-  - '!'
-  - '['
-  - ']'
-  - '#'
-  - \
   - '7'
   - '8'
   - '9'
   - '0'
-  - .
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ;
+  - '-'
+  - {t: ▽, type: trans}
   - '='
-  - '%'
-  - '&'
-  - '{'
-  - '}'
-  - $
-  - '|'
+  - ''''
+  - '['
+  - ']'
+  - {t: ▽, type: trans}
+  - LEFT SHIFT
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - RIGHT SHIFT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -184,15 +184,6 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&mkp MB3'
-  - '&mkp MB2'
-  - '&mkp MB1'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '&mkp MB1'
-  - '&mkp MB2'
-  - '&mkp MB3'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -210,7 +201,16 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
