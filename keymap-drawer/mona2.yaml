@@ -16,12 +16,12 @@ layers:
   - D
   - F
   - G
-  - ''''
+  - '`'
   - H
   - J
   - K
   - L
-  - ;
+  - \
   - {t: Z, h: LEFT SHIFT}
   - X
   - C
@@ -261,5 +261,3 @@ layers:
 combos:
 - p: [39, 38]
   k: {t: ESC, h: '3'}
-- p: [11, 12]
-  k: TAB
