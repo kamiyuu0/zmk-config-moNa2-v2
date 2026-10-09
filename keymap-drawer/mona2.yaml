@@ -37,11 +37,11 @@ layers:
   - LEFT CONTROL
   - LEFT ALT
   - LEFT COMMAND
+  - {t: '&to_layer_0 LANGUAGE_2', h: '1'}
   - LANGUAGE 1
-  - LANGUAGE 2
-  - {t: '&to_layer_0 SPACE', h: '1'}
-  - {t: '&to_layer_0 ENTER', h: '2'}
+  - SPACE
   - BACKSPACE
+  - {t: '&to_layer_0 ENTER', h: '2'}
   - TAB
   '1':
   - '1'
@@ -80,9 +80,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -126,8 +126,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
   - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   '3':
   - {t: ▽, type: trans}
